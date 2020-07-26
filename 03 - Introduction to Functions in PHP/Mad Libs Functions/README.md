@@ -1,4 +1,4 @@
-# World Traveler
+# Mad Libs Functions
 
 ### Related course
 [CODE]CADEMY PRO | LEARN PHP: 3. Introduction to Functions in PHP

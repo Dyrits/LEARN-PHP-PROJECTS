@@ -1,4 +1,4 @@
-# [Magic 8 Bal](https://www.codecademy.com/courses/learn-php/projects/magic-8-ball)
+# [Magic 8 Ball](https://www.codecademy.com/courses/learn-php/projects/magic-8-ball)
 
 ## About this project
 
